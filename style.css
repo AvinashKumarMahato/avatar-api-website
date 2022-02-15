@@ -1,0 +1,11 @@
+*{
+    font-family: 'Luckiest Guy', cursive;
+    background-color: #bdbfbb;
+    
+}
+h1{
+    text-align: center;
+}
+.centerDiv, .details{
+    text-align: center;
+}
